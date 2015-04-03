@@ -1,0 +1,20 @@
+{
+  "name": "Arubaruba/student_emails",
+  "description": "Sends infographic emails to students in moodle regarding their activity level",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andreas Stocker",
+      "email": "andreas@stockers.org"
+    }
+  ],
+  "require": {
+    "twig/twig": "1.6.5",
+    "phpmailer/phpmailer": "v5.2.9",
+    "tijsverkoyen/css-to-inline-styles": "1.5.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.6.0"
+  }
+}

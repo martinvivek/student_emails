@@ -1,0 +1,1 @@
+SELECT * FROM mdl_course, mdl_user WHERE
